@@ -1,0 +1,15 @@
+{
+  "name": "lottery-nodejs",
+  "version": "1.0.0",
+  "description": "Lottery Rest API",
+  "main": "service.js",
+  "scripts": {
+    "lottery-service": "nodemon service.js"
+  },
+  "dependencies": {
+    "nodemon": "2.0.7"
+  },
+  "keywords": [],
+  "author": "Emrah Göksülük <Emrah.Goksuluk@softtech.com.tr>",
+  "license": "MIT"
+}
